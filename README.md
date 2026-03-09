@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm KiNG
+# 👋 Hey there! I'm KiNG (RAJ ROY)
 
 🎓 MCA Student (2025) | Dev in Progress  
 💻 Learning Full-Stack Development, DSA & Real-World Projects  
@@ -10,12 +10,12 @@
 ### 🔧 Tech Stack (Basics & Learning)
 - 💻 HTML, CSS, JavaScript
 - 🐍 Python, C, Java
-- 🧠 RDBMS, Git, GitHub, VS Code
+- 🧠 RDBMS, Git, GitHub, VS Code, Android Studio
 - ⚛️ React (Learning), Node.js (Learning)
 
 ---
 
-### 🎯 Goals (2025)
+### 🎯 Goals (2026)
 - Build real-world useful projects  
 - Improve problem solving and DSA skills  
 - Share learning and contribute to open-source  
