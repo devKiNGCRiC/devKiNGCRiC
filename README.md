@@ -24,7 +24,6 @@
 ---
 
 ### 🛠️ Current Projects
-- 🔧 Setting up Git, GitHub, VS Code  
 - 🌱 Learning daily, building weekly  
 - 💡 New project ideas in progress...
 
