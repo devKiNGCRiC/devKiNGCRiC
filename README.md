@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm KiNG (RAJ ROY)
 
-🎓 MCA Student (2025) | Dev in Progress  
+🎓 MCA Student (2025-27) | Dev in Progress  
 💻 Learning Full-Stack Development, DSA & Real-World Projects  
 🚀 Exploring code, design & content creation one step at a time  
 📍 Based in India
