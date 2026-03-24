@@ -8,8 +8,8 @@
 ---
 
 ### 🔧 Tech Stack (Basics & Learning)
-- 💻 HTML, CSS, JavaScript
-- 🐍 Python, C, Java
+- 💻 HTML, CSS, JavaScript, XML
+- 🐍 Python, C, Java , MongoDB(Learning)
 - 🧠 RDBMS, Git, GitHub, VS Code, Android Studio
 - ⚛️ React (Learning), Node.js (Learning)
 
@@ -26,6 +26,7 @@
 ### 🛠️ Current Projects
 - 🌱 Learning daily, building weekly  
 - 💡 New project ideas in progress...
+- WanderLink - An Travellers Chat App
 
 ---
 
