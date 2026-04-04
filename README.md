@@ -1,130 +1,103 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hey, I'm Raj Roy (KiNG)</h1>
+<div align="center">
 
-<p align="center">
-🚀 Full Stack Developer | MERN Stack | Open Source Explorer <br>
-🎓 MCA @ SRM IST (2025–2027) | 🇮🇳 India
-</p>
+# Raj Roy — KiNG
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=devKiNGCRiC&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/devKiNGCRiC?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/devKiNGCRiC?style=social" />
-</p>
+**MCA Student · MERN Stack Developer · ML Enthusiast · Open Source**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
+[![GitHub followers](https://img.shields.io/github/followers/devKiNGCRiC?label=Followers&style=flat-square&logo=github)](https://github.com/devKiNGCRiC)
+![Location](https://img.shields.io/badge/Chennai%2C%20India-🇮🇳-lightgrey?style=flat-square)
+![Course](https://img.shields.io/badge/MCA-SRM%20IST%202025--2027-0e75b6?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=0e75b6)](https://github.com/devKiNGCRiC)
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;MERN+Stack+Developer;Open+Source+Contributor;Learning+DSA+%26+System+Design" />
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+## Who I am
 
-- 🔭 Building **SafarNama** — Eco-tourism platform (MERN)
-- 🌱 Learning **System Design + Backend Architecture**
-- 🧠 Daily **DSA Practice (Consistency Mode ON)**
-- 💡 Interested in **Real-world products & scalable systems**
-- ⚡ Motto: *"Consistency beats intensity"*
+I'm a first-year MCA student at SRM Institute of Science and Technology, Chennai, working at the intersection of **full-stack web development** and **applied machine learning**.  
 
----
+I built an ensemble ML framework for cross-sport athlete injury risk prediction trained on ~87K records.
 
-## 🌟 Featured Projects
+Beyond research, I focus on building real, deployable products.  
+Right now that means shipping **SafarNama** — an eco-tourism platform — while grinding DSA daily and preparing for strong placement outcomes.
 
-### 🌍 SafarNama — Eco-Tourism Platform
-> 🛠 React • Node.js • MongoDB • Maps API  
-
-- 🌱 Sustainable travel platform  
-- 🗺️ Location-based exploration  
-- 📅 Booking + Community features  
-
-🔗 https://github.com/devKiNGCRiC/SafarNama
+> *"Consistency beats intensity."*
 
 ---
 
-### 📊 DSA Interactive Visualizer
-> ⚛️ React • TypeScript • Tailwind  
+## 🚀 Projects
 
-- 📈 Visual learning for algorithms  
-- 🧠 Step-by-step execution  
-
-🔗 https://github.com/devKiNGCRiC/dsa-interactive-visualizer
-
----
-
-### ✍️ DevBlog — MERN Blogging Platform
-> 🔐 Auth • CRUD • Full-stack  
-
-- 📝 Blog creation & management  
-- 🔑 JWT Authentication  
-
-🔗 https://github.com/devKiNGCRiC/DevBlog
-
----
-
-### 🤖 UniAthleteIQ — ML Project
-> 🧠 Python • ML Models  
-
-- 📊 Injury prediction system  
-- ⚙️ Ensemble learning  
-
-🔗 https://github.com/devKiNGCRiC/UniAthleteIQ
+| Project | Stack | Description |
+|---|---|---|
+| [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) &nbsp;`active` | React · Node.js · MongoDB · Maps API | Sustainable travel platform with map integration, booking system, and community features |
+| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) | Android Application | Travel discovery and linking platform |
+| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) &nbsp;`research` | Python · XGBoost · Random Forest · SMOTE | Cross-sport ML model for athlete injury risk prediction |
+| [**DSA Visualizer**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) | React · TypeScript · Tailwind CSS | Interactive step-by-step DSA visualizations |
+| [**java-practice-dsa**](https://github.com/devKiNGCRiC/java-practice-dsa) | Java | Structured DSA practice from basics to advanced |
+| [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | React · Express · MongoDB · JWT | Full-stack blogging platform |
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,java,python,html,css,git,github,vscode,androidstudio" />
-</p>
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://streak-stats.demolab.com?user=devKiNGCRiC&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=devKiNGCRiC&theme=tokyonight&hide_border=true&cache_seconds=0" height="160"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devKiNGCRiC&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Currently Focused On
 
-- 🚀 Build **production-level projects**
-- 🧠 Master **DSA + Problem Solving**
-- 🌍 Contribute to **Open Source regularly**
-- 💼 Become **Internship-ready developer**
-
----
-
-## 🔥 Currently Grinding On
-
-- ⚛️ React ecosystem deep dive  
-- 🧠 Backend architecture  
-- 📦 Deployment & scaling  
-- 🌍 Open source contributions  
+- 🔥 Shipping **SafarNama** to production — auth, booking, maps  
+- 🧠 Daily DSA problem-solving for placements  
+- ⚛️ Deepening backend & system design knowledge  
+- 🌍 Making meaningful open-source contributions  
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="center">
-<a href="https://www.linkedin.com/in/raj-roy-kc2806/">
-<img src="https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
 
 ---
 
-## 💡 Developer Mindset
-
-<p align="center">
-<i>"One repo at a time. One skill at a time. One step closer to the vision."</i>
-</p>
+<div align="center">
+  <sub><i>"One repo at a time. One skill at a time. One step closer to the vision." — KiNG</i></sub>
+</div>
