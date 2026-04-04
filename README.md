@@ -1,103 +1,128 @@
 <div align="center">
 
-# Raj Roy — KiNG
+<h1>Raj Roy <sub><sup>aka KiNG</sup></sub></h1>
 
-**MCA Student · MERN Stack Developer · ML Enthusiast · Open Source**
+<p>
+  <strong>MCA Student · MERN Stack Developer · ML Enthusiast · Open Source</strong>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
-[![GitHub followers](https://img.shields.io/github/followers/devKiNGCRiC?label=Followers&style=flat-square&logo=github)](https://github.com/devKiNGCRiC)
-![Location](https://img.shields.io/badge/Chennai%2C%20India-🇮🇳-lightgrey?style=flat-square)
-![Course](https://img.shields.io/badge/MCA-SRM%20IST%202025--2027-0e75b6?style=flat-square)
-[![Profile Views](https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=0e75b6)](https://github.com/devKiNGCRiC)
+<p>
+  <a href="https://www.linkedin.com/in/raj-roy-kc2806/">
+    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/devKiNGCRiC">
+    <img src="https://img.shields.io/github/followers/devKiNGCRiC?label=Followers&style=flat-square&logo=github"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SRM%20IST%20Chennai-MCA%202025–2027-0e75b6?style=flat-square"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=0e75b6&label=Profile+Views"/>
+</p>
 
 </div>
 
 ---
 
-## Who I am
+## About
 
-I'm a first-year MCA student at SRM Institute of Science and Technology, Chennai, working at the intersection of **full-stack web development** and **applied machine learning**.  
+First-year MCA student at SRM Institute of Science and Technology, Chennai.
+I work across **full-stack web development**, **Android**, and **applied ML** — building things that are meant to actually ship.
 
-I built an ensemble ML framework for cross-sport athlete injury risk prediction trained on ~87K records.
-
-Beyond research, I focus on building real, deployable products.  
-Right now that means shipping **SafarNama** — an eco-tourism platform — while grinding DSA daily and preparing for strong placement outcomes.
+I built an ensemble ML framework for cross-sport athlete injury risk prediction (~87K records), and I'm currently developing **SafarNama**, a full-stack eco-tourism platform. Alongside that, I grind DSA daily for placements and keep pushing toward open source.
 
 > *"Consistency beats intensity."*
 
 ---
 
-## 🚀 Projects
+## Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) &nbsp;`active` | React · Node.js · MongoDB · Maps API | Sustainable travel platform with map integration, booking system, and community features |
-| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) | Android Application | Travel discovery and linking platform |
-| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) &nbsp;`research` | Python · XGBoost · Random Forest · SMOTE | Cross-sport ML model for athlete injury risk prediction |
-| [**DSA Visualizer**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) | React · TypeScript · Tailwind CSS | Interactive step-by-step DSA visualizations |
-| [**java-practice-dsa**](https://github.com/devKiNGCRiC/java-practice-dsa) | Java | Structured DSA practice from basics to advanced |
-| [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | React · Express · MongoDB · JWT | Full-stack blogging platform |
+| Project | Stack | What it does |
+|:---|:---|:---|
+| [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) `active` | React · Node.js · MongoDB · Maps API | Eco-tourism platform — maps, booking, community |
+| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) | Android · Java | Travel discovery and linking app |
+| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) `research` | Python · XGBoost · SMOTE | Ensemble ML for athlete injury prediction · 87K records |
+| [**DSA Visualizer**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) | React · TypeScript · Tailwind | Step-by-step algorithm visualizations |
+| [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | React · Express · MongoDB · JWT | Full-stack blog platform with auth |
+| [**java-practice-dsa**](https://github.com/devKiNGCRiC/java-practice-dsa) | Java | DSA practice — basics to advanced |
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Languages**&emsp;
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
-
+**Frontend**&emsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & DB**&emsp;
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**&emsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
+
+<!-- 
+  IMPORTANT: The public github-readme-stats deployment gets rate-limited.
+  For reliable stats, deploy your own instance:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy to Vercel (free) and add your GitHub token
+  3. Replace the domain below with your own deployment URL
+-->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=devKiNGCRiC&theme=tokyonight&hide_border=true&cache_seconds=0" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKiNGCRiC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devKiNGCRiC&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=devKiNGCRiC&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devKiNGCRiC&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
+## Now
 
-- 🔥 Shipping **SafarNama** to production — auth, booking, maps  
-- 🧠 Daily DSA problem-solving for placements  
-- ⚛️ Deepening backend & system design knowledge  
-- 🌍 Making meaningful open-source contributions  
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
+- Building **SafarNama** toward a production deploy
+- Daily DSA grind — placement prep
+- Learning **Next.js** and system design depth
+- First open source contributions in progress
 
 ---
 
 <div align="center">
-  <sub><i>"One repo at a time. One skill at a time. One step closer to the vision." — KiNG</i></sub>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
+
+<br/>
+
+<sub><i>"One repo at a time. One skill at a time. One step closer to the vision." — KiNG</i></sub>
+
 </div>
