@@ -30,4 +30,15 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🌍 Safarnama (Eco-Tourism Platform)
+- Built using React, Node.js
+- Features: Booking, Map, Community
+
+---
+
+![GitHub followers](https://img.shields.io/github/followers/devKiNGCRiC)
+![GitHub stars](https://img.shields.io/github/stars/devKiNGCRiC)
+
 > “One repo at a time. One skill at a time. One step closer to the vision.” — KiNG
