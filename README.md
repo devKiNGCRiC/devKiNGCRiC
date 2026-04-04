@@ -1,44 +1,99 @@
-# 👋 Hey there! I'm KiNG (RAJ ROY)
+<div align="center">
 
-🎓 MCA Student (2025-27) | Dev in Progress  
-💻 Learning Full-Stack Development, DSA & Real-World Projects  
-🚀 Exploring code, design & content creation one step at a time  
-📍 Based in India
+# Raj Roy — KiNG
 
----
+**MCA Student · MERN Stack Developer · ML Researcher · Open Source Enthusiast**
 
-### 🔧 Tech Stack (Basics & Learning)
-- 💻 HTML, CSS, JavaScript, XML
-- 🐍 Python, C, Java , MongoDB(Learning)
-- 🧠 RDBMS, Git, GitHub, VS Code, Android Studio
-- ⚛️ React (Learning), Node.js (Learning)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
+[![GitHub](https://img.shields.io/badge/GitHub-devKiNGCRiC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devKiNGCRiC)
+![Location](https://img.shields.io/badge/Chennai%2C%20India-🇮🇳-lightgrey?style=flat-square)
+![Course](https://img.shields.io/badge/MCA-SRM%20IST%202025--2027-blue?style=flat-square)
+![Paper](https://img.shields.io/badge/Paper%20Submitted-ICCECE%202026%20(IEEE)-6f42c1?style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=0e75b6)](https://github.com/devKiNGCRiC)
 
----
-
-### 🎯 Goals (2026)
-- Build real-world useful projects  
-- Improve problem solving and DSA skills  
-- Share learning and contribute to open-source  
-- Grow as a tech creator & collaborator  
+</div>
 
 ---
 
-### 🛠️ Current Projects
-- 🌱 Learning daily, building weekly  
-- 💡 New project ideas in progress...
-- WanderLink - An Travellers Chat App
+## Who I am
+
+I'm a first-year MCA student at SRM Institute of Science and Technology, Chennai, working at the intersection of **full-stack web development** and **applied machine learning**. I have a research paper submitted to ICCECE 2026 (IEEE Conference) on IoT-based asthma detection, and independently built an ensemble ML framework for cross-sport athlete injury risk prediction trained on ~87K records.
+
+Beyond research, I focus on building real, deployable products. Right now, that means shipping **SafarNama** — an eco-tourism platform — while grinding DSA daily and preparing for strong placement outcomes in 2027.
+
+> *"Consistency beats intensity."*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌍 Safarnama (Eco-Tourism Platform)
-- Built using React, Node.js
-- Features: Booking, Map, Community
+| Project | Stack | Description |
+|---|---|---|
+| [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) &nbsp;`active` | React · Node.js · MongoDB · Maps API | Sustainable travel platform with map integration, booking system, and community features |
+| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) &nbsp;`research` | Python · XGBoost · Random Forest · SMOTE | Cross-sport ensemble ML framework for athlete injury risk prediction — ~87K records, IEEE paper submitted |
+| [**DSA Visualizer**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) | React · TypeScript · Tailwind CSS | Interactive step-by-step algorithm and data structure visualizations |
+| [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | React · Express · MongoDB · JWT | Full-stack blogging platform with authentication and content management |
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/devKiNGCRiC)
-![GitHub stars](https://img.shields.io/github/stars/devKiNGCRiC)
+## 🧰 Tech Stack
 
-> “One repo at a time. One skill at a time. One step closer to the vision.” — KiNG
+**Languages & Frameworks**
+
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+**Tools & Platforms**
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKiNGCRiC&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=devKiNGCRiC&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+- 🔥 Shipping **SafarNama** to production — auth, booking, maps
+- 🧠 Daily DSA problem-solving for placement prep
+- ⚛️ Deepening **Next.js** and system design knowledge
+- 🌍 Making first meaningful **open source contributions**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects, research discussions, or just a good conversation about tech.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
+
+---
+
+<div align="center">
+  <sub>
+    <i>"One repo at a time. One skill at a time. One step closer to the vision." — KiNG</i>
+  </sub>
+</div>
