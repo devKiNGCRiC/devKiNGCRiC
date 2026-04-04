@@ -1,128 +1,177 @@
 <div align="center">
 
-<h1>Raj Roy <sub><sup>aka KiNG</sup></sub></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6f42c1&height=200&section=header&text=Hey,%20I'm%20Raj%20Roy%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=aka%20KiNG%20·%20Builder%20·%20Researcher%20·%20MCA%20%4026&descAlignY=58&descSize=16"/>
 
-<p>
-  <strong>MCA Student · MERN Stack Developer · ML Enthusiast · Open Source</strong>
-</p>
+</div>
 
-<p>
-  <a href="https://www.linkedin.com/in/raj-roy-kc2806/">
-    <img src="https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/devKiNGCRiC">
-    <img src="https://img.shields.io/github/followers/devKiNGCRiC?label=Followers&style=flat-square&logo=github"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SRM%20IST%20Chennai-MCA%202025–2027-0e75b6?style=flat-square"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=0e75b6&label=Profile+Views"/>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)&nbsp;
+[![GitHub](https://img.shields.io/badge/-devKiNGCRiC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/devKiNGCRiC)&nbsp;
+![Location](https://img.shields.io/badge/-Chennai,%20India-E53935?style=flat-square&logo=googlemaps&logoColor=white)&nbsp;
+![Course](https://img.shields.io/badge/-SRM%20IST%20MCA%2025--27-0e75b6?style=flat-square&logo=googlescholar&logoColor=white)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=6f42c1&label=👁️+Views)](https://github.com/devKiNGCRiC)
 
 </div>
 
 ---
 
-## About
-
-First-year MCA student at SRM Institute of Science and Technology, Chennai.
-I work across **full-stack web development**, **Android**, and **applied ML** — building things that are meant to actually ship.
-
-I built an ensemble ML framework for cross-sport athlete injury risk prediction (~87K records), and I'm currently developing **SafarNama**, a full-stack eco-tourism platform. Alongside that, I grind DSA daily for placements and keep pushing toward open source.
-
-> *"Consistency beats intensity."*
-
----
-
-## Projects
-
-| Project | Stack | What it does |
-|:---|:---|:---|
-| [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) `active` | React · Node.js · MongoDB · Maps API | Eco-tourism platform — maps, booking, community |
-| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) | Android · Java | Travel discovery and linking app |
-| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) `research` | Python · XGBoost · SMOTE | Ensemble ML for athlete injury prediction · 87K records |
-| [**DSA Visualizer**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) | React · TypeScript · Tailwind | Step-by-step algorithm visualizations |
-| [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | React · Express · MongoDB · JWT | Full-stack blog platform with auth |
-| [**java-practice-dsa**](https://github.com/devKiNGCRiC/java-practice-dsa) | Java | DSA practice — basics to advanced |
+```ts
+const KiNG = {
+  name        : "Raj Roy",
+  alias       : "KiNG",
+  location    : "Chennai, India 🇮🇳",
+  education   : "MCA @ SRM IST (2025–2027)",
+  stack       : ["MERN", "TypeScript", "Python", "Android (Java)"],
+  currentBuild: "SafarNama — Eco Tourism Platform 🌍",
+  researchWork: "Ensemble ML for Athlete Injury Prediction (~87K records)",
+  goals       : ["Strong placements", "Open Source", "Ship real products"],
+  motto       : "Consistency beats intensity.",
+};
+```
 
 ---
 
-## Tech Stack
+## 🔨 Currently Building
 
-**Languages**&emsp;
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frontend**&emsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & DB**&emsp;
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools**&emsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌍 SafarNama</h3>
+      <p align="center">
+        <a href="https://github.com/devKiNGCRiC/SafarNama">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devKiNGCRiC&repo=SafarNama&theme=tokyonight&hide_border=true" width="100%"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <p align="center">Sustainable travel platform · maps · booking · community</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 UniAthleteIQ</h3>
+      <p align="center">
+        <a href="https://github.com/devKiNGCRiC/UniAthleteIQ">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devKiNGCRiC&repo=UniAthleteIQ&theme=tokyonight&hide_border=true" width="100%"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SMOTE-6f42c1?style=flat-square&logoColor=white"/>
+      </p>
+      <p align="center">Cross-sport ML injury prediction · ~87K records · research paper</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📱 WanderLink</h3>
+      <p align="center">
+        <a href="https://github.com/devKiNGCRiC/WanderLink">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devKiNGCRiC&repo=WanderLink&theme=tokyonight&hide_border=true" width="100%"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      </p>
+      <p align="center">Travel discovery and linking Android app</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 DSA Visualizer</h3>
+      <p align="center">
+        <a href="https://github.com/devKiNGCRiC/dsa-interactive-visualizer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=devKiNGCRiC&repo=dsa-interactive-visualizer&theme=tokyonight&hide_border=true" width="100%"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <p align="center">Step-by-step interactive algorithm visualizations</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Stats
-
-<!-- 
-  IMPORTANT: The public github-readme-stats deployment gets rate-limited.
-  For reliable stats, deploy your own instance:
-  1. Fork https://github.com/anuraghazra/github-readme-stats
-  2. Deploy to Vercel (free) and add your GitHub token
-  3. Replace the domain below with your own deployment URL
--->
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKiNGCRiC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKiNGCRiC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devKiNGCRiC&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=devKiNGCRiC&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devKiNGCRiC&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devKiNGCRiC&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## Now
+## 🎯 Now · 2026
 
-- Building **SafarNama** toward a production deploy
-- Daily DSA grind — placement prep
-- Learning **Next.js** and system design depth
-- First open source contributions in progress
+- 🚀 Shipping **SafarNama** to production
+- 🧠 Daily DSA grind for placements
+- ⚛️ Levelling up **Next.js** + system design
+- 🌍 First meaningful open source contributions
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:0e75b6&height=120&section=footer&fontSize=20&fontColor=ffffff"/>
 
-<br/>
-
-<sub><i>"One repo at a time. One skill at a time. One step closer to the vision." — KiNG</i></sub>
+*"One repo at a time. One skill at a time. One step closer to the vision." — KiNG*
 
 </div>
