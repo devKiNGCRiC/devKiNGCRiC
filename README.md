@@ -8,7 +8,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/devKiNGCRiC?label=Followers&style=flat-square&logo=github)](https://github.com/devKiNGCRiC)
 ![Location](https://img.shields.io/badge/Chennai%2C%20India-🇮🇳-lightgrey?style=flat-square)
 ![Course](https://img.shields.io/badge/MCA-SRM%20IST%202025--2027-0e75b6?style=flat-square)
-![Paper](https://img.shields.io/badge/Paper%20Submitted-ICCECE%202026%20(IEEE)-6f42c1?style=flat-square)
 [![Profile Views](https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=0e75b6)](https://github.com/devKiNGCRiC)
 
 </div>
@@ -17,7 +16,7 @@
 
 ## Who I am
 
-I'm a first-year MCA student at SRM Institute of Science and Technology, Chennai, working at the intersection of **full-stack web development** and **applied machine learning**. I built an ensemble ML framework for cross-sport athlete injury risk prediction trained on ~87K records, with a research paper submitted to ICCECE 2026 (IEEE Conference).
+I'm a first-year MCA student at SRM Institute of Science and Technology, Chennai, working at the intersection of **full-stack web development** and **applied machine learning**. I built an ensemble ML framework for cross-sport athlete injury risk prediction trained on ~87K records.
 
 Beyond research, I focus on building real, deployable products. Right now that means shipping **SafarNama** — an eco-tourism platform — while grinding DSA daily and preparing for strong placement outcomes.
 
@@ -30,10 +29,10 @@ Beyond research, I focus on building real, deployable products. Right now that m
 | Project | Stack | Description |
 |---|---|---|
 | [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) &nbsp;`active` | React · Node.js · MongoDB · Maps API | Sustainable travel platform with map integration, booking system, and community features |
-| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) | MERN Stack | Travel discovery and linking platform |
-| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) &nbsp;`research` | Python · XGBoost · Random Forest · SMOTE | Cross-sport ensemble ML for athlete injury risk prediction — ~87K records, IEEE paper submitted |
+| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) | Android Application | Travel discovery and linking platform |
+| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) &nbsp;`research` | Python · XGBoost · Random Forest · SMOTE | Cross-sport ensemble ML for athlete injury risk prediction across ~87K records |
 | [**DSA Visualizer**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) | React · TypeScript · Tailwind CSS | Interactive step-by-step algorithm and data structure visualizations |
-| [**java-practice-dsa**](https://github.com/devKiNGCRiC/java-practice-dsa) | C++ | Structured DSA practice — basics to advanced with logic-building drills |
+| [**java-practice-dsa**](https://github.com/devKiNGCRiC/java-practice-dsa) | JAVA | Structured DSA practice — basics to advanced with logic-building drills |
 | [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | React · Express · MongoDB · JWT | Full-stack blogging platform with authentication and content management |
 
 ---
@@ -43,12 +42,11 @@ Beyond research, I focus on building real, deployable products. Right now that m
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frameworks & Libraries**
 
@@ -72,16 +70,14 @@ Beyond research, I focus on building real, deployable products. Right now that m
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKiNGCRiC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=devKiNGCRiC&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="420"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=devKiNGCRiC&theme=tokyonight&hide_border=true" height="160"/>
-</div>
 
-> **Note on streak:** The streak widget counts *consecutive calendar days* with a commit. Even one missed day resets it — it reflects daily commit discipline, not total activity.
+![devKiNGCRiC's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=devKiNGCRiC&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 
 ---
 
