@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Raj Roy 👋
-### aka KiNG · MCA Student · MERN Stack · ML Enthusiast
+### aka KiNG · MCA Student · MERN Stack · ML Enthusiast · Mobile App Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
 [![GitHub followers](https://img.shields.io/github/followers/devKiNGCRiC?label=Followers&style=flat-square&logo=github)](https://github.com/devKiNGCRiC)
