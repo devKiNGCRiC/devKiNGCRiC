@@ -15,7 +15,7 @@
 
 ## About
 
-First-year MCA student at SRM IST, Chennai. I build full-stack web apps, Android applications, and applied ML projects. Currently focused on shipping **SafarNama**, grinding DSA daily, and working toward strong placements.
+First-year MCA student at SRM IST, Chennai. I build full-stack web apps, Android applications, and applied ML projects. Currently focused on shipping **SafarNama**, **WanderLink** , grinding DSA daily, and working toward strong placements.
 
 > *"Consistency beats intensity."*
 
