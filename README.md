@@ -26,7 +26,7 @@ First-year MCA student at SRM IST, Chennai. I build full-stack web apps, Android
 | Project | Stack | Description |
 |:---|:---|:---|
 | [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) `active` | React · Node.js · MongoDB · Maps API | Eco-tourism platform — maps, booking, community |
-| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) | Android · Java | Travel discovery and linking app |
+| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) `active` | Android · Java | Travel discovery and linking app |
 | [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) `research` | Python · XGBoost · SMOTE | Ensemble ML for athlete injury prediction · ~87K records |
 | [**DSA Visualizer**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) | React · TypeScript · Tailwind | Step-by-step algorithm visualizations |
 | [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | React · Express · MongoDB · JWT | Full-stack blog platform with auth |
