@@ -66,7 +66,7 @@ First-year MCA student at SRM IST, Chennai. I build full-stack web apps, Android
 
 ## 🎯 Currently
 
-- 🔥 Building **SafarNama** toward production
+- 🔥 Building **SafarNama** and **WanderLink** toward production
 - 🧠 Daily DSA grind for placements
 - ⚛️ Learning **Next.js** + system design
 - 🌍 Working toward first open source contributions
