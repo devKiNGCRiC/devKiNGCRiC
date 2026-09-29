@@ -15,7 +15,7 @@
 
 ## About
 
-MCA student at SRM IST, Chennai. I build full-stack web apps, Android applications, and applied ML projects. Currently focused on shipping **SafarNama**, **WanderLink** , grinding DSA daily, and working toward strong placements.
+MCA student at SRM IST, Chennai. I build full-stack web apps, Android applications, and applied ML projects. Currently focused on shipping **SafarNama**, **WanderLink** , **WanderLens** , grinding DSA daily, and working toward strong placements.
 
 > *"Consistency beats intensity."*
 
@@ -68,7 +68,7 @@ MCA student at SRM IST, Chennai. I build full-stack web apps, Android applicatio
 
 - 🔥 Building **SafarNama** and **WanderLink** toward production
 - 🧠 Daily DSA grind for placements
-- ⚛️ Learning **Next.js** + system design
+- ⚛️ Learning **Next.js** , **React-Native** + system design
 - 🌍 Working toward first open source contributions
 
 ---
