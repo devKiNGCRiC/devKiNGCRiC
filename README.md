@@ -1,82 +1,88 @@
 <div align="center">
 
-# Hey, I'm Raj Roy 👋
-### aka KiNG · MCA Student · MERN Stack · ML Enthusiast · Mobile App Developer
+# Hi, I'm Raj Roy 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
-[![GitHub followers](https://img.shields.io/github/followers/devKiNGCRiC?label=Followers&style=flat-square&logo=github)](https://github.com/devKiNGCRiC)
-![Location](https://img.shields.io/badge/Chennai%2C%20India-🇮🇳-lightgrey?style=flat-square)
-![Course](https://img.shields.io/badge/MCA-SRM%20IST%202025--2027-0e75b6?style=flat-square)
-[![Profile Views](https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=6f42c1)](https://github.com/devKiNGCRiC)
+<a href="https://github.com/devKiNGCRiC">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=520&lines=MCA+Student+%40+SRM+IST%2C+Chennai;Full-Stack+Developer+(MERN);React+Native+%26+Android+Apps;Applied+ML+%26+Computer+Vision;Learning+by+building." alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/raj-roy-kc2806/"><img src="https://img.shields.io/badge/LinkedIn-Raj%20Roy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/KiNGCRiC28"><img src="https://img.shields.io/badge/X-@KiNGCRiC28-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://img.shields.io/badge/MCA-SRM%20IST%202025--27-0e75b6?style=flat-square" alt="MCA SRM IST" />
+  <img src="https://img.shields.io/badge/Chennai%2C%20India-lightgrey?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=devKiNGCRiC&style=flat-square&color=6f42c1&label=Profile+views" alt="Profile views" />
+</p>
 
 </div>
 
 ---
 
-## About
+### 🧑‍💻 About me
 
-MCA student at SRM IST, Chennai. I build full-stack web apps, Android applications, and applied ML projects. Currently focused on shipping **SafarNama**, **WanderLink** , **WanderLens** , grinding DSA daily, and working toward strong placements.
-
-> *"Consistency beats intensity."*
-
----
-
-## 🚀 Projects
-
-| Project | Stack | Description |
-|:---|:---|:---|
-| [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) `active` | React · Node.js · Express.js · MongoDB · Maps API | Eco-tourism platform — maps, booking, community |
-| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) `active` | Android · Java · XML | Travel discovery and linking app |
-| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) `research` | Python · XGBoost · SMOTE | Ensemble ML for athlete injury prediction · ~87K records |
-| [**DSA Visualizer**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) | React · TypeScript · Tailwind | Step-by-step algorithm visualizations |
-| [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | React · Express · MongoDB · JWT | Full-stack blog platform with auth |
-| [**java-practice-dsa**](https://github.com/devKiNGCRiC/java-practice-dsa) | Java | DSA practice — basics to advanced |
+- 🎓 **MCA** student at **SRM Institute of Science & Technology**, Chennai (2025–2027) · BCA, Assam Don Bosco University
+- 🛠️ I build **full-stack web apps (MERN)**, **mobile apps (React Native & Android)**, and **applied ML** projects
+- 🏆 My team's travel platform **SafarNama** won a **Special Jury Award**
+- 📸 Currently building **Wanderlens**, my MCA capstone, and growing **PinchPop** into a web + mobile platform
+- 🎯 Practising DSA daily and preparing for placements
+- 💬 Ask me about React, Node/Express, MongoDB, or Java
 
 ---
 
-## 🧰 Tech Stack
+### 🚀 Featured projects
+
+| Project | What it is | Built with |
+|:--|:--|:--|
+| [**Wanderlens**](https://github.com/devKiNGCRiC/wanderlens) <br/> `MCA capstone` | Social app for travellers and photographers to find community-verified, hyper-local photo spots. Spot feed and map, geo-tagged posts, connections, real-time chat, and an AI photo-trail planner | React Native · Expo · TypeScript · Supabase (PostGIS, Realtime) · MapLibre · Gemini / Groq |
+| [**PinchPop**](https://github.com/devKiNGCRiC/PinchPop) <br/> [🔗 **Live demo**](https://pinchpop.vercel.app) | Gesture-controlled photobooth game: frame a shot with your fingers, pinch to capture, solve your photo as a 3×3 puzzle, and keep it as a polaroid | React · TypeScript · Vite · MediaPipe hand tracking · Canvas · Web Audio · Tailwind |
+| [**SafarNama**](https://github.com/devKiNGCRiC/SafarNama) <br/> `🏆 Special Jury Award` | Travel platform for discovering underrated and hidden destinations (team project — I worked on frontend and backend) | React · Node.js · Express · MongoDB · Maps API |
+| [**AlgoVisualizer Pro**](https://github.com/devKiNGCRiC/dsa-interactive-visualizer) <br/> [🔗 **Live demo**](https://algovisualizer-pro.vercel.app) | Step-by-step animations of 5 sorting algorithms with live comparison, swap and timing stats, plus a side-by-side algorithm comparison mode | React · TypeScript · Vite · Tailwind · Framer Motion · Zustand |
+| [**UniAthleteIQ**](https://github.com/devKiNGCRiC/UniAthleteIQ) | Ensemble ML model that predicts athlete injury risk, trained on ~87K records with class balancing | Python · XGBoost · SMOTE |
+| [**WanderLink**](https://github.com/devKiNGCRiC/WanderLink) | Android app for discovering and sharing travel spots | Android · Java · XML |
+| [**DevBlog**](https://github.com/devKiNGCRiC/DevBlog) | Full-stack blogging platform with JWT auth, built during the EDXcellence virtual internship | React · Express · MongoDB · JWT |
+| [**DSA in C++**](https://github.com/devKiNGCRiC/DSA-in-CPP-by-KiNG) · [**Java DSA**](https://github.com/devKiNGCRiC/java-practice-dsa) | My DSA practice, from basics to advanced | C++ · Java |
+
+---
+
+### 🧰 Tech stack
 
 **Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,html,css" alt="Languages" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Frameworks & libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,sklearn" alt="Frameworks" />
 
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+**Databases & tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,git,github,vscode,androidstudio,vercel" alt="Tools" />
 
 ---
 
-## 🎯 Currently
+### 🌱 Currently learning
 
-- 🔥 Building **SafarNama** and **WanderLink** toward production
-- 🧠 Daily DSA grind for placements
-- ⚛️ Learning **Next.js** , **React-Native** + system design
-- 🌍 Working toward first open source contributions
+`Next.js` · `System Design` · `Computer Vision on the web` · making my first open-source contributions
+
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKiNGCRiC&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=transparent" alt="Top languages" />
+</div>
 
 ---
 
 <div align="center">
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-roy-kc2806/)
+### 🤝 Let's connect
 
-<sub><i>"One repo at a time. One skill at a time. One step closer to the vision." — KiNG</i></sub>
+I'm open to **internships and full-time roles (2027 batch)**. The best way to reach me is LinkedIn.
+
+<a href="https://www.linkedin.com/in/raj-roy-kc2806/"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+
+<sub><i>"Consistency beats intensity." — KiNG</i></sub>
 
 </div>
