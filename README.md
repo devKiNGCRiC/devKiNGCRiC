@@ -68,9 +68,10 @@
 
 ### 📊 GitHub stats
 
+<!-- Replace YOUR-APP with the name of your own Vercel deployment of github-readme-stats -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devKiNGCRiC&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devKiNGCRiC&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=transparent" alt="Top languages" />
+  <img height="165" src="https://YOUR-APP.vercel.app/api?username=devKiNGCRiC&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://YOUR-APP.vercel.app/api/top-langs/?username=devKiNGCRiC&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=transparent" alt="Top languages" />
 </div>
 
 ---
