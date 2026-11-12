@@ -56,7 +56,7 @@
 
 **Databases & tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,git,github,vscode,androidstudio,vercel" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,git,github,vscode,androidstudio,vercel,cliudflare" alt="Tools" />
 
 ---
 
