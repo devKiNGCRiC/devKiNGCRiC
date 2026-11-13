@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Raj Roy 👋
 
@@ -47,16 +47,19 @@
 ### 🧰 Tech stack
 
 **Languages**
+
 <br/>
 <img src="https://skillicons.dev/icons?i=java,js,ts,py,cpp,html,css" alt="Languages" />
 
 **Frameworks & libraries**
+
 <br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,sklearn" alt="Frameworks" />
 
 **Databases & tools**
+
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,git,github,vscode,androidstudio,vercel,cliudflare" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,postgres,git,github,vscode,androidstudio,vercel,cloudflare" alt="Databases and tools" />
 
 ---
 
