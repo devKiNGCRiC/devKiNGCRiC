@@ -14,14 +14,14 @@
 
 ## ✦ the lore
 
-- 🎓 mca @ **srm ist, chennai** (class of '27) · bca from **assam don bosco university**
-- 🛠️ i build **full-stack web apps**, **mobile apps** and the occasional **ml model**
-- 🏆 my team's travel app **safarnama** took home a **special jury award**
-- 💼 did a **full-stack web dev internship** at **edxcellence** (jan – mar 2026)
+- 🎓 MCA @ **srm ist, chennai** (class of '27) · bca from **assam don bosco university**
+- 🛠️ I build **full-stack web apps**, **mobile apps** and the occasional **ml model**
+- 🏆 My team's travel app **safarnama** took home a **special jury award**
+- 💼 Did a **full-stack web dev internship** at **edxcellence** (jan – mar 2026)
 - 🍳 rn: shipping my capstone **wanderlens**, leveling up **pinchpop**, learning **rag**
-- 🧠 dsa daily. placements loading...
-- 💬 ask me about react, node / express, mongodb, supabase or java
-- 🎨 side interests: design & indian stories
+- 🧠 DSA daily. placements loading...
+- 💬 Ask me about react, node / express, mongodb, supabase or java
+- 🎨 Side interests: Travel, design & indian stories
 
 ## ✦ main quests
 
