@@ -1,0 +1,40 @@
+# Rebuilds the stats card every day and publishes it to the "output" branch.
+# The README loads it from there, so your main branch history stays clean.
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 08:47 IST
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+  push:
+    paths:
+      - "scripts/stats.py"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build stats card
+        env:
+          # Optional: add a personal access token as the STATS_TOKEN secret to also count private contributions
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/stats.py dist/stats.svg
+
+      - name: Publish to the output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git commit -q -m "Update stats card"
+          git push -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
